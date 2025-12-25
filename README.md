@@ -46,7 +46,7 @@ I am a Machine Learning Engineer (Graduating Oct 2025) dedicated to transforming
 
 ### 📫 Get In Touch
 [![Email](https://img.shields.io/badge/Email-meeraliz2003%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:meeraliz2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meera%20Liz%20Joy-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/your-profile-slug](https://www.linkedin.com/in/meeralizjoy/))
-[![GitHub](https://img.shields.io/badge/GitHub-meeraliz-lightgrey?style=flat-square&logo=github)]([https://github.com/your-username](https://github.com/MeeraLizJoy))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meera%20Liz%20Joy-blue?style=flat-square&logo=linkedin)]([www.linkedin.com/in/meeralizjoy])
+[![GitHub](https://img.shields.io/badge/GitHub-meeraliz-lightgrey?style=flat-square&logo=github)]([[https://github.com/MeeraLizJoy]])
 
 ---
