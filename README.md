@@ -22,6 +22,8 @@ I am a Machine Learning Engineer dedicated to transforming complex data into act
 
 ---
 
+[![Meera's github stats](https://github-readme-stats.vercel.app/api?username=MeeraLizJoy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🚀 Featured Projects
 *Detailed code and documentation are available in my repositories.*
 
@@ -46,7 +48,7 @@ I am a Machine Learning Engineer dedicated to transforming complex data into act
 
 ### 📫 Get In Touch
 [![Email](https://img.shields.io/badge/Email-meeraliz2003%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:meeraliz2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meera%20Liz%20Joy-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/meeralizjoy])
-[![GitHub](https://img.shields.io/badge/GitHub-meeraliz-lightgrey?style=flat-square&logo=github)]([[https://github.com/MeeraLizJoy]])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meera%20Liz%20Joy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meeralizjoy)
+[![GitHub](https://img.shields.io/badge/GitHub-meeraliz-lightgrey?style=flat-square&logo=github)](https://github.com/MeeraLizJoy)
 
 ---
