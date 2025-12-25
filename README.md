@@ -22,8 +22,19 @@ I am a Machine Learning Engineer dedicated to transforming complex data into act
 
 ---
 
-[![Meera's github stats](https://github-readme-stats.vercel.app/api?username=MeeraLizJoy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats:
+[![Meera's stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MeeraLizJoy&count_private=true&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&hide_rank=false)](https://github.com/MeeraLizJoy)
 
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MeeraLizJoy&layout=compact&theme=radical&hide=jupyter%20notebook)](https://github.com/MeeraLizJoy)
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=MeeraLizJoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MeeraLizJoy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeeraLizJoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MeeraLizJoy&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
+---
 ### 🚀 Featured Projects
 *Detailed code and documentation are available in my repositories.*
 
