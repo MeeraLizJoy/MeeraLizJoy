@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 Professional Profile
-I am a Machine Learning Engineer (Graduating Oct 2025) dedicated to transforming complex data into actionable insights. My focus lies in the **end-to-end deployment** of AI models—moving beyond Jupyter Notebooks to build production-ready APIs and interactive web applications.
+I am a Machine Learning Engineer dedicated to transforming complex data into actionable insights. My focus lies in the **end-to-end deployment** of AI models—moving beyond Jupyter Notebooks to build production-ready APIs and interactive web applications.
 
 * **Current Focus:** Generative AI workflows & Gemini API integration.
 * **Technical Strength:** High-accuracy CV models & custom NLP embedding pipelines.
@@ -40,13 +40,13 @@ I am a Machine Learning Engineer (Graduating Oct 2025) dedicated to transforming
 ---
 
 ### 🌱 Education
-**Bachelor of Technology in Computing Science and Engineering** *Vellore Institute of Technology (VIT) – Bhopal, India* *Expected Graduation: October 2025*
+**Bachelor of Technology in Computing Science and Engineering** *Vellore Institute of Technology (VIT) – Bhopal, India* *Graduated: October 2025*
 
 ---
 
 ### 📫 Get In Touch
 [![Email](https://img.shields.io/badge/Email-meeraliz2003%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:meeraliz2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meera%20Liz%20Joy-blue?style=flat-square&logo=linkedin)]([www.linkedin.com/in/meeralizjoy])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meera%20Liz%20Joy-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/meeralizjoy])
 [![GitHub](https://img.shields.io/badge/GitHub-meeraliz-lightgrey?style=flat-square&logo=github)]([[https://github.com/MeeraLizJoy]])
 
 ---
